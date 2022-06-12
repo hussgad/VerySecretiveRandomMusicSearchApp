@@ -4,7 +4,7 @@ Move the slider to select the number of words to be grabbed from the API.
 
 Project is largely unfinished due to poor time management on my side.
 I spent too much time on WPF element styles, instead of implementing logic first.
-I had to give up on a few ideas that I had initially, e.g. using MVVM pattern for complete separation of data and GUI.
+I had to give up on a few ideas that I had initially, e.g. using MVVM pattern for complete separation of data and GUI, extensive animations, song search asynchrony.
 
 Here is a list of things I have implemented:
 Number selection page (with minimum and maximum possible number)
