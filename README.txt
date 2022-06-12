@@ -1,4 +1,4 @@
-To run the program open the VerySecretiveRandomMusicSearchApp.sln in your Visual Studio and then compile and run the code.
+To run the program open the VerySecretiveRandomMusicSearchApp.sln in your Visual Studio and then compile and run the code (Ctrl+F5).
 To exit the applicaiton click escape on your keyboard.
 Move the slider to select the number of words to be grabbed from the API.
 
